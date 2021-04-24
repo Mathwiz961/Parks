@@ -16,3 +16,5 @@ Input requires a CSV file with the lat/lon/buffer of areas of interest (in this 
 AllTrails
 
 Searches AllTrails for trails in Florida State Parks then subsequently extracts the trail data and writes results to a CSV file.
+
+CSV files PC_MMF, PC_AllTrails, and PC_Wikiloc contains the park visitation counts by sport.
